@@ -20,7 +20,7 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
         <li>Solicitar a cliente</li>
         <li>Pendientes</li>
         <li>Aprovados</li>
-        <li>Atrsados</li>
+        <li>Atrasados</li>
       </ul>
   </li>
   <li>Contabilidad</li>
