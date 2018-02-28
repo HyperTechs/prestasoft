@@ -3,7 +3,7 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
 
 # Tecnologías
 <ul>
-  <li>Laravel <b>5.5</b></li>
+  <li>Laravel <b>5.5+</b></li>
   <li>Vue js <b>2.2+</b></li>
  </ul>
 
