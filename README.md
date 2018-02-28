@@ -11,7 +11,7 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
 <p>Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuestros clientes con soportes futuros a menos costo.</p>
 
 # Modulos:
- Hasta ahora el sistema esta en desarrollo y cuenta con los siguientes modulos, y aplicación movil.
+ Hasta ahora el sistema esta en desarrollo y cuenta con los siguientes modulos.
  <ul>
   <li>Sistema de roles</li>
   <li>Administración de usuarios</li>
@@ -27,3 +27,6 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
   
   
  </ul>
+
+# Aplicación movil? 
+Pronto estaremos trabajando en ella. 
