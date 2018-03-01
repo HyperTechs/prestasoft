@@ -30,3 +30,5 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
 
 # Aplicación movil? 
 Pronto estaremos trabajando en ella. 
+
+# Leer licencia. 
