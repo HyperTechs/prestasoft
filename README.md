@@ -32,3 +32,4 @@ Prestasoft es un sistema de préstamo libre, con la intención de ayudar a nuest
 Pronto estaremos trabajando en ella. 
 
 # Leer licencia. 
+ <a href="https://github.com/angeldelacruzs/prestasoft/blob/master/LICENSE">Aquí</a>
