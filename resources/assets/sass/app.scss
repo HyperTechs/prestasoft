@@ -1,0 +1,68 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+// Toastr
+@import '~toastr/build/toastr.css';
+
+
+
+.dropdown-menu{
+  padding: 0px !important;
+}
+
+.navbar-laravel-imperial{
+  background-color: #222f3e;
+}
+.navbar-laravel-imperial .navbar-brand, .navbar-laravel-imperial .navbar-brand:hover{
+  color: #fff;
+}
+
+
+.dropdown-menu{
+  top:115%;
+  border-radius: 0px;
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.sidebar-nav{
+  width: 200px;
+  position: absolute;
+  height: 100%;
+  background-color: #18212b;
+}
+
+.sidebar-nav .nav-link:hover {
+  background: #000;
+}
+
+.dropdown-list{
+  padding-left: 0px;
+  display: none;
+}
+
+.toggle-effects{
+  display: block;
+}
+
+.left-main{
+  margin-left: 200px;
+  display: block;
+}
