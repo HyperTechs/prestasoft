@@ -29,4 +29,9 @@ $('.dropdown-list-menu').click(function (e) {
     e.preventDefault();
     $(this).find('ul').toggle(100);
     $(this).find('.icon-direcction').toggleClass('fa fa-caret-left fa fa-caret-down');
+
 })
+
+$('.dropdown-list > li > a').click(function () {
+    window.location = $(this).attr('href');
+});

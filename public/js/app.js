@@ -30631,13 +30631,17 @@ Vue.component('idea', __webpack_require__(161));
 Vue.component('register-client', __webpack_require__(166));
 
 var app = new Vue({
-  el: '#app'
+    el: '#app'
 });
 
 $('.dropdown-list-menu').click(function (e) {
-  e.preventDefault();
-  $(this).find('ul').toggle(100);
-  $(this).find('.icon-direcction').toggleClass('fa fa-caret-left fa fa-caret-down');
+    e.preventDefault();
+    $(this).find('ul').toggle(100);
+    $(this).find('.icon-direcction').toggleClass('fa fa-caret-left fa fa-caret-down');
+});
+
+$('.dropdown-list > li > a').click(function () {
+    window.location = $(this).attr('href');
 });
 
 /***/ }),
