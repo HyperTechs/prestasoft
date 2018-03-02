@@ -25,8 +25,8 @@ const app = new Vue({
 });
 
 
-$('.dropdown-list-menu').click(function () {
-
-    $('.dropdown-list').toggleClass('toggle-effects', 200);
-
+$('.dropdown-list-menu').click(function (e) {
+    e.preventDefault();
+    $(this).find('ul').toggle(100);
+    $(this).find('.icon-direcction').toggleClass('fa fa-caret-left fa fa-caret-down');
 })

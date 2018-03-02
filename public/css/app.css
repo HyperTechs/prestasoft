@@ -285,3 +285,8 @@ button.toast-close-button {
   display: block;
 }
 
+.icon-white {
+  color: #e8e8e8;
+  padding-right: 5px;
+}
+
