@@ -290,3 +290,7 @@ button.toast-close-button {
   padding-right: 5px;
 }
 
+.active {
+  background: #000;
+}
+

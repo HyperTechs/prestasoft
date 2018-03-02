@@ -37,6 +37,15 @@
          <li class="nav-item">
              <a class="nav-link" href="#"><i class="icon-white fa fa-money" aria-hidden="true"></i> Contabilidad</a>
          </li>
+         <li class="nav-item active">
+             <a class="nav-link" href="#"><i class="icon-white fa fa-cog" aria-hidden="true"></i> Mantenimientos <span class="sr-only">(current)</span></a>
+         </li>
 
+         <li class="nav-item">
+             <a class="nav-link" href="#"><i class="icon-white fa fa-flag" aria-hidden="true"></i> Pais <span class="sr-only">(current)</span></a>
+         </li>
+         <li class="nav-item">
+             <a class="nav-link" href="#"><i class="icon-white fa fa-building" aria-hidden="true"></i> Roles <span class="sr-only">(current)</span></a>
+         </li>
      </ul>
  </div>
